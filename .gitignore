@@ -9,6 +9,7 @@
 !configProxyTest.json
 !scripts/
 !scripts/start.sh
+!README.md
 
 # Keep macOS artifacts ignored even if directories are unignored.
 .DS_Store
