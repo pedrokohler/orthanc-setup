@@ -37,7 +37,7 @@ and get:
 ## Quick start
 
 ```bash
-cd /Users/kohler/projects/Orthanc-MacOS-26.1.0-stable
+# yes, you just need to run yarn start
 yarn start
 ```
 
