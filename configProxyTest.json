@@ -1,0 +1,11 @@
+{
+  "Name": "OrthancProxyTest",
+  "StorageDirectory": "./OrthancStorage",
+  "IndexDirectory": "./OrthancStorage",
+  "Plugins": [
+    "./libOrthancDicomWeb.dylib"
+  ],
+  "HttpPort": 8042,
+  "RemoteAccessAllowed": false,
+  "AuthenticationEnabled": false
+}

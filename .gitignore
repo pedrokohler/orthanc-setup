@@ -1,0 +1,15 @@
+# Ignore everything by default.
+/*
+
+# Keep repository files we actually need.
+!.gitignore
+!package.json
+!cors-reverse-proxy.js
+!configMacOS.json
+!configProxyTest.json
+!scripts/
+!scripts/start.sh
+
+# Keep macOS artifacts ignored even if directories are unignored.
+.DS_Store
+
